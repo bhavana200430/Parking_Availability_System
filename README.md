@@ -19,7 +19,6 @@ IR sensors (two sensors used in this project)
 Jumper wires
 
 Software Requirements:
-
 Arduino IDE with ESP8266 board support
 Libraries:
 ESP8266WiFi
