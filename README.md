@@ -6,7 +6,7 @@ Parking Slot Status Monitor
 Overview:
 This project utilizes an ESP8266 microcontroller to monitor the occupancy status of parking slots using IR sensors. It provides a web-based interface to view the real-time status of each slot.
 
-Features:
+Features 
 Real-time Monitoring: Displays whether each parking slot is occupied or free.
 Web Interface: Accessible via a web browser to check status remotely.
 JSON API: Provides a JSON API endpoint /status to fetch the status programmatically.
