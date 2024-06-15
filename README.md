@@ -27,11 +27,9 @@ ArduinoJson (for handling JSON data)
 Installation and Setup
 
 Hardware Setup:
-
 Connect IR sensors to GPIO pins of the ESP8266 board (pins D1 and D6 in this example).
 
 Software Setup:
-
 Install the Arduino IDE.
 Install the ESP8266 board package in the Arduino IDE.
 Install necessary libraries (ESP8266WiFi, ESP8266WebServer, ArduinoJson).
